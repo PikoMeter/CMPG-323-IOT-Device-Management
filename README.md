@@ -1,5 +1,7 @@
 # CMPG-323-IOT-Device-Management
-Fork of the script used to create the database for project 2
+Forked for Project 3 
+
+First commit made on 22nd 
 
 
 Added a readme for the homework assignment.
